@@ -1,0 +1,9 @@
+Go to "FINALbio" folder
+Click on "BIODIVERSITY" executable
+This is not a virus
+
+"Bio Project" is just previous versions of project and .py files
+Write up will be on Google Doc handed in on Google Classroom
+"code for FINALbio" is the code in a txt document. Contains comments showing how everything works.
+
+
