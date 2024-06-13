@@ -6,4 +6,5 @@ This is not a virus
 Write up will be on Google Doc handed in on Google Classroom
 "code for FINALbio" is the code in a txt document. Contains comments showing how everything works.
 
+BIODIVERSITY.exe should open your terminal and start printing stuff
 
